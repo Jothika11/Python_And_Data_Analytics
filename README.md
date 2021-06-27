@@ -1,1 +1,3 @@
-# Python_And_Data_Analytics
+# SHAPEAI PYTHON AND DATA ANALYTICS BOOTCAMP
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+</b>.
